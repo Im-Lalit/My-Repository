@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461068876 source:c:\users\lalit-pc\documents\tmp programing\serialmoniter\src\serialclass.cpp
+	"SerialClass.h"
+
+1461068876 c:\users\lalit-pc\documents\tmp programing\serialmoniter\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1461069013 source:c:\users\lalit-pc\documents\tmp programing\serialmoniter\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SerialClass.h>
+	<string>
+

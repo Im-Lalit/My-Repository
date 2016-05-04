@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1460772598 source:c:\users\lalit-pc\documents\tmp programing\class\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<algorithm>
+	<xml_l.h>
+	<fstream>
+
+1460773554 c:\users\lalit-pc\documents\tmp programing\class\include\xml_l.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	<string>
+	<string.h>
+	<algorithm>
+

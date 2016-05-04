@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1460022396 source:c:\users\lalit-pc\documents\tmp programing\sortlync\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<string>
+	<algorithm>
+
+1460023173 c:\users\lalit-pc\documents\tmp programing\sortlync\include\xml_read.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
+1460023249 source:c:\users\lalit-pc\documents\tmp programing\sortlync\src\xml_read.cpp
+	<iostream>
+	"xml_read.h"
+

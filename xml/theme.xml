@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Theme Created using Nokia's Carbide.ui Series 40 Theme Edition 6.0 on Wed Jul 31 16:51:27 IST 2013 s40v3 Res:240x320@eur Type:PLATFORM TempVer:null --><!DOCTYPE theme PUBLIC "theme" "xml30.dtd">
+<theme name="windows 8 v1" version="1.0">
+<descriptor xml-version="3.0">
+<toolbox>
+<message-box>
+<font color="0x000000"/>
+<background color="0xfa8072" source="img18.png"/>
+<wait-anim>
+<image source="img13.swf"/>
+</wait-anim>
+</message-box>
+<progressbar>
+<background color="0x000000"/>
+</progressbar>
+<list>
+<item>
+<selected>
+<font color="0x000000"/>
+<background source="img12.png"/>
+</selected>
+<unselected>
+<font color="0x000000"/>
+</unselected>
+</item>
+<unavailable-item>
+<selected>
+<background source="img12.png"/>
+</selected>
+</unavailable-item>
+<background display="main" source="img4.jpg"/>
+</list>
+<forms>
+<unselected>
+<font color="0x000000"/>
+<background source="img0.png"/>
+</unselected>
+<selected>
+<font color="0x000000"/>
+<background source="img8.png"/>
+</selected>
+<label>
+<font color="0x000000"/>
+</label>
+</forms>
+<popup-list>
+<list>
+<item>
+<selected>
+<background source="img8.png"/>
+</selected>
+<unselected>
+<font color="0x000000"/>
+</unselected>
+</item>
+<unavailable-item>
+<selected>
+<font color="0x000000"/>
+<background source="img9.png"/>
+</selected>
+<unselected>
+<font color="0x000000"/>
+</unselected>
+</unavailable-item>
+<background display="main" source="img16.png"/>
+<background display="second" source="img16.png"/>
+</list>
+</popup-list>
+<scrollbar>
+<vertical>
+<scrollbar-background position="bottom">
+<background source="img2.png"/>
+</scrollbar-background>
+<scrollbar-background position="top">
+<background source="img3.png"/>
+</scrollbar-background>
+</vertical>
+</scrollbar>
+</toolbox>
+<screens>
+<softkey position="left">
+<background source="img0.png"/>
+</softkey>
+<softkey position="right">
+<background source="img0.png"/>
+</softkey>
+<softkey position="center">
+<background source="img0.png"/>
+</softkey>
+<idle>
+<status-area>
+<font color="0x000000"/>
+<background source="img0.png"/>
+</status-area>
+<softkey-area>
+<background source="img0.png"/>
+</softkey-area>
+<wallpaper>
+<image display="main" source="img27.swf"/>
+</wallpaper>
+<screensaver>
+<image display="main" source="img24.swf"/>
+</screensaver>
+<transformation>
+<mech-open>
+<sequence>
+<image display="main" source="img25.swf"/>
+</sequence>
+</mech-open>
+<mech-close>
+<sequence>
+<image display="main" source="img26.swf"/>
+</sequence>
+</mech-close>
+</transformation>
+<active-idle>
+<shortcut-bar>
+<selected>
+<background source="img11.png"/>
+</selected>
+</shortcut-bar>
+</active-idle>
+</idle>
+<power-cycle>
+<startup>
+<sequence>
+<image display="main" source="img25.swf"/>
+</sequence>
+</startup>
+<shutdown>
+<sequence>
+<image display="main" source="img26.swf"/>
+</sequence>
+</shutdown>
+</power-cycle>
+<menu-app>
+<app-background id="contacts">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="gallery">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="callregister">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="settings">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="organizer">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="services">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="media">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="applications">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="simatk">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="push_to_talk">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="messages">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="ams_messages">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="camera">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="extras">
+<background source="img4.jpg"/>
+</app-background>
+<app-background id="brew">
+<background source="img4.jpg"/>
+</app-background>
+<menu>
+<grid-menu>
+<background source="img4.jpg"/>
+<grid-icon anim-source="img7.png" id="contacts" source="img7.png"/>
+<grid-icon anim-source="img10.png" id="gallery" source="img10.png"/>
+<grid-icon anim-source="img14.png" id="callregister" source="img14.png"/>
+<grid-icon anim-source="img22.png" id="settings" source="img22.png"/>
+<grid-icon anim-source="img19.png" id="organizer" source="img19.png"/>
+<grid-icon anim-source="img21.png" id="services" source="img21.png"/>
+<grid-icon anim-source="img15.png" id="media" source="img15.png"/>
+<grid-icon anim-source="img1.png" id="applications" source="img1.png"/>
+<grid-icon anim-source="img23.png" id="simatk" source="img23.png"/>
+<grid-icon anim-source="img20.png" id="push_to_talk" source="img20.png"/>
+<grid-icon anim-source="img17.png" id="messages" source="img17.png"/>
+<grid-icon anim-source="img6.png" id="camera" source="img6.png"/>
+<unselected>
+<font color="0x000000"/>
+</unselected>
+<selected>
+<background source="img11.png"/>
+</selected>
+</grid-menu>
+<tab-menu>
+<selected>
+<background source="img11.png"/>
+</selected>
+</tab-menu>
+<reorder>
+<font color="0x000000"/>
+<list-reorder>
+<background color="0x000000" source="img12.png"/>
+</list-reorder>
+</reorder>
+<icon id="contacts" source="img7.png"/>
+<icon id="gallery" source="img10.png"/>
+<icon id="callregister" source="img14.png"/>
+<icon id="settings" source="img22.png"/>
+<icon id="organizer" source="img19.png"/>
+<icon id="services" source="img21.png"/>
+<icon id="media" source="img15.png"/>
+<icon id="applications" source="img1.png"/>
+<icon id="simatk" source="img23.png"/>
+<icon id="push_to_talk" source="img20.png"/>
+<icon id="messages" source="img17.png"/>
+<icon id="camera" source="img6.png"/>
+</menu>
+<applications>
+<calendar>
+<month-view>
+<month-background month="january">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="february">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="march">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="april">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="may">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="june">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="july">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="august">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="september">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="october">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="november">
+<background source="img4.jpg"/>
+</month-background>
+<month-background month="december">
+<background source="img4.jpg"/>
+</month-background>
+<weekdaybar>
+<font color="0x000000"/>
+<background source="img0.png"/>
+</weekdaybar>
+<selected>
+<font color="0x000000"/>
+</selected>
+</month-view>
+<week-view>
+<timebar>
+<background source="img0.png"/>
+</timebar>
+<reserved-slot>
+<background color="0x000000"/>
+</reserved-slot>
+<grid color="0x000000"/>
+</week-view>
+<preview-pane>
+<font color="0x000000"/>
+<background source="img0.png"/>
+</preview-pane>
+</calendar>
+<big-clock>
+<analog-clock>
+<background source="img5.jpg"/>
+</analog-clock>
+<digital-clock>
+<background source="img4.jpg"/>
+</digital-clock>
+</big-clock>
+</applications>
+<dimming color="0x000000"/>
+</menu-app>
+</screens>
+</descriptor>
+</theme>

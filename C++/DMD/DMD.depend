@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1459954521 source:c:\users\lalit-pc\documents\tmp programing\dmd\main.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<cstddef>
+
